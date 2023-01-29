@@ -30,6 +30,12 @@ jobs:
       - run: npm run build --if-present
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
+<<<<<<< HEAD
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+=======
+      - with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build
+>>>>>>> 16422391494b839c0e128cfb55d20071fd0ac199
