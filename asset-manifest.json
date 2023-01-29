@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/financieta-react/static/css/main.073c9b0a.css",
+    "main.js": "/financieta-react/static/js/main.665abd38.js",
+    "static/js/787.c3441a26.chunk.js": "/financieta-react/static/js/787.c3441a26.chunk.js",
+    "service-worker.js": "/financieta-react/service-worker.js",
+    "static/media/logo.svg": "/financieta-react/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/financieta-react/index.html",
+    "main.073c9b0a.css.map": "/financieta-react/static/css/main.073c9b0a.css.map",
+    "main.665abd38.js.map": "/financieta-react/static/js/main.665abd38.js.map",
+    "787.c3441a26.chunk.js.map": "/financieta-react/static/js/787.c3441a26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.665abd38.js"
+  ]
+}
